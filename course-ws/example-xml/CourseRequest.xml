@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCourseDetailsRequest
+        xmlns="http://jamesaworo.com/courses"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://jamesaworo.com/courses course-details.xsd">
+    <id>12</id>
+</GetCourseDetailsRequest>

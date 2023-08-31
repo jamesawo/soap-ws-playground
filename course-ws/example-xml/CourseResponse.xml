@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCourseDetailsResponse xmlns="http://jamesaworo.com/courses">
+    <CourseDetails>
+        <id>21</id>
+        <name>Spring Introduction</name>
+        <description>Learn how to use spring like a pro</description>
+    </CourseDetails>
+</GetCourseDetailsResponse>
